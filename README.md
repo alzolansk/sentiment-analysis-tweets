@@ -13,4 +13,4 @@ Este projeto realiza uma análise de sentimentos em tweets, usando Python, Panda
 - `requirements.txt`: bibliotecas usadas
 
 ## 📊 Exemplo de resultado
-![Exemplo de gráfico](notebooks/grafico_sentimento.png)
+![Exemplo de gráfico](notebooks/grafico_sentimentos.png)
