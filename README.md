@@ -1,9 +1,8 @@
 # 🧠 Análise de Sentimentos em Tweets
 
-Este projeto realiza uma análise de sentimentos em tweets sobre filmes, usando Python, Pandas e TextBlob.
+Este projeto realiza uma análise de sentimentos em tweets, usando Python, Pandas e TextBlob.
 
 ## 📌 Objetivos
-- Aprender a limpar textos usando Pandas
 - Classificar sentimentos com TextBlob
 - Gerar insights visuais sobre opiniões públicas
 
