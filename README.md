@@ -1,6 +1,7 @@
 # 🧠 Análise de Sentimentos em Tweets
 
 Este projeto realiza uma análise de sentimentos em tweets, usando Python, Pandas e TextBlob.
+500 tweets aleatórios foram usádos para essa análise.
 
 ## 📌 Objetivos
 - Classificar sentimentos com TextBlob
