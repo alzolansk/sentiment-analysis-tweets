@@ -10,8 +10,6 @@ Este projeto realiza uma análise de sentimentos em tweets, usando Python, Panda
 ## 📁 Estrutura
 - `data/`: base de dados original
 - `notebooks/`: análises e gráficos
-- `src/`: funções reutilizáveis
-- `requirements.txt`: bibliotecas usadas
 
 ## 📊 Exemplo de resultado
 ![Exemplo de gráfico](notebooks/grafico_sentimentos.png)
